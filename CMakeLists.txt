@@ -14,7 +14,6 @@ add_executable(${PROJECT_NAME}
         lib/rfm95/rfm95.c
         lib/aht20/aht20.c
         lib/bmp280/bmp280.c
-        lib/ssd1306/ssd1306.c
         )
 
 target_link_libraries(${PROJECT_NAME} 
@@ -27,7 +26,6 @@ target_include_directories(${PROJECT_NAME} PRIVATE ${CMAKE_CURRENT_LIST_DIR}
         lib/rfm95
         lib/aht20
         lib/bmp280
-        lib/ssd1306
         )
 
 pico_enable_stdio_usb(${PROJECT_NAME} 1)

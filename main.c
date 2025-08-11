@@ -4,7 +4,6 @@
 
 // === BIBLIOTECAS DA PASTA LIB ===
 #include "rfm95.h"
-#include "ssd1306.h"
 #include "bmp280.h"
 #include "aht20.h"
 
