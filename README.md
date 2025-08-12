@@ -269,8 +269,9 @@ Configure os pinos no arquivo de definições conforme sua placa:
 
 ---
 
+
 ## Desenvolvido por
 
-Henrique Oliveira dos Santos  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-henriqueo-santos/)
+- Henrique Oliveira dos Santos
+- Rodrigo Pirôpo
+- Levi Freitas
