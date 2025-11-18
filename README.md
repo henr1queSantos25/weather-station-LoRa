@@ -272,6 +272,5 @@ Configure os pinos no arquivo de definições conforme sua placa:
 
 ## Desenvolvido por
 
-- Henrique Oliveira dos Santos
-- Rodrigo Pirôpo
-- Levi Freitas
+**Henrique Oliveira dos Santos**  
+[LinkedIn](https://www.linkedin.com/in/dev-henriqueo-santos/)
